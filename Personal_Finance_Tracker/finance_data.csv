@@ -1,0 +1,53 @@
+date,amount,category,description
+15-07-2023,298.98,Expense,Transaction 31
+13-08-2023,103.59,Expense,Transaction 4
+21-08-2023,468.53,Income,Transaction 21
+09-09-2023,384.48,Income,Transaction 50
+20-09-2023,261.44,Expense,Transaction 36
+28-09-2023,432.97,Expense,Transaction 15
+29-09-2023,9.23,Income,Transaction 47
+30-09-2023,418.31,Expense,Transaction 3
+12-10-2023,1341.73,Income
+01-11-2023,273.24,Income
+04-11-2023,130.19,Income,Transaction 19
+05-11-2023,431.41,Expense,Transaction 14
+10-11-2023,437.98,Income,Transaction 32
+18-11-2023,296.38,Income,Transaction 39
+25-11-2023,359.67,Income,Transaction 38
+30-11-2023,456.09,Income
+06-12-2023,146.47,Expense,Transaction 5
+25-12-2023,283.23,Income,Transaction 20
+30-12-2023,198.9,Expense,Transaction 42
+01-01-2024,275.84,Income
+16-01-2024,344.95,Income,Transaction 45
+30-01-2024,82.86,Expense,Transaction 24
+08-02-2024,408.13,Expense,Transaction 26
+29-02-2024,151.0,Expense,Transaction 17
+09-03-2024,369.45,Expense,Transaction 34
+10-03-2024,390.38,Expense
+15-03-2024,10.31,Income,Transaction 8
+15-03-2024,128.22,Expense,Transaction 25
+17-03-2024,589.9,Income,Transaction 48
+24-03-2024,372.99,Expense,Transaction 44
+26-03-2024,133.37,Expense
+29-03-2024,328.53,Income,Transaction 12
+05-04-2024,220.56,Income,Transaction 40
+09-04-2024,134.07,Income,Transaction 49
+10-04-2024,375.34,Income,Transaction 27
+14-04-2024,262.82,Income
+15-04-2024,238.8,Income
+27-04-2024,396.67,Expense,Transaction 28
+06-05-2024,895.82,Income,Transaction 37
+16-05-2024,169.92,Income,Transaction 1
+16-05-2024,226.48,Income,Transaction 30
+18-05-2024,142.29,Income,Transaction 33
+23-05-2024,225.9,Expense
+30-05-2024,204.67,Expense,Transaction 6
+30-05-2024,426.71,Expense,Transaction 41
+03-06-2024,460.19,Expense
+11-06-2024,57.55,Expense,Transaction 29
+17-06-2024,432.6,Expense
+25-06-2024,170.99,Income,Transaction 35
+14-07-2024,206.62,Income
+
+
